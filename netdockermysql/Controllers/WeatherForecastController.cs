@@ -13,7 +13,7 @@ namespace netdockermysql.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Atta", "Itrat", "Sylverter", "Faizel", "Team", "Broker92", "Soludev", "Happy", "Coding", "Progress"
+            "Atta", "Itrat", "Sylverter", "Faizel", "Team", "Broker92", "Soludev", "Happy", "Coding", "Progres"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
